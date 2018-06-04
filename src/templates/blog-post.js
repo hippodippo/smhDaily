@@ -5,6 +5,7 @@ import get from 'lodash/get'
 
 import Bio from '../components/Bio'
 import { rhythm, scale } from '../utils/typography'
+import icon from '../img/smhDaily.png';
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -14,7 +15,9 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <div>
-        <Helmet title={`${post.frontmatter.title} | smhDaily`} />
+        <Helmet title={`${post.frontmatter.title} | smhDaily`}>
+          <link rel="shortcut icon" type="image/png" href={icon} />
+        </Helmet>
         <h1 style={{color: '#ff583f'}}>{post.frontmatter.title}</h1>
         <p
           style={{
