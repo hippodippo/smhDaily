@@ -27,10 +27,11 @@ class Template extends React.Component {
               boxShadow: 'none',
               textDecoration: 'none',
               color: 'inherit',
+              fontSize: '.73em'
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            smhDaily
           </Link>
         </h1>
       )
@@ -51,7 +52,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            smhDaily
           </Link>
         </h3>
       )
