@@ -11,4 +11,4 @@ Hours vanish as if they were popcorn at the movies. My date sits up and starts p
 
 ![What year is it?](year.jpg)
 
-I guess we all just have to adapt to these "Stranger Things" happeing around us, ayyy see what I did there? Anyways, best of luck to all of you in the dating pool, although, it seems to be a shark tank nowadays, so bring your appetite!
+I guess we all just have to adapt to these "Stranger Things" happening around us, ayyy see what I did there? Anyways, best of luck to all of you in the dating pool, although, it seems to be a shark tank nowadays, so bring your appetite!
