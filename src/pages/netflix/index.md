@@ -3,6 +3,8 @@ title: Netflix and what?...
 date: "2018-06-04T23:38:56.812Z"
 ---
 
+![netflix](netflixx.png)
+
 It is a fine weekend evening in the middle of the spring semester. Lying in your comfy dorm room bed, curled up with your lovely girlfriend, or quite possibly, your date that you semi awkwardly met on social media earlier that day, relax and gaze upon your flat screen tv that has accumulated far too much dust over the years. Yes you heard that right, I said YEARS. Leave your judgement by the door please. If you can not help yourself, then don't let the door hitcha on the way out. Ok now that we got that embarrassing part of the story out of the way, lets proceed forward, shall we?
 
 Spread across the screen are the all too familiar letters "NETFLIX". Oh yes boys and girls, we were indeed Netflixin and Chillin simultaneously. Impressive you say? I agree and graciously thank you for your acknowledgement. As we sailed through the ocean of choices, acting as if there is barely anything to watch (you know this pain), we finally dropped anchor at "Stranger Things" island. Even though we both had watched every episode more times than we dare admit, we proceeded forward.
