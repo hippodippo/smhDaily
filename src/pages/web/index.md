@@ -1,6 +1,6 @@
 ---
 title: How does your basic website work?
-date: "2018-06-04T23:38:56.812Z"
+date: "2018-06-12T22:53:50.074Z"
 ---
 
 ![web](web.jpg)
